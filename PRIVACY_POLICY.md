@@ -1,0 +1,187 @@
+# Privacy Policy for DoodleDates
+
+**Last Updated: October 6, 2025**
+
+## Introduction
+
+DoodleDates ("we," "our," or "us") operates the DoodleDates mobile application. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our app.
+
+By using DoodleDates, you agree to the practices described in this policy.
+
+## Contact Information
+
+For privacy-related inquiries, data deletion requests, or concerns:
+- **Email:** apptestbh@gmail.com
+- **App:** DoodleDates
+
+## Information We Collect
+
+### 1. Account Information
+When you create an account, we collect:
+- Username
+- Password (encrypted)
+- Name
+- Age
+- Bio (optional)
+- Location (optional)
+- Profile photo (optional)
+
+### 2. User-Generated Content
+- Drawings you create and send to matches
+- Text messages you send after unlocking text chat
+- Profile information you choose to display
+
+### 3. Usage Data
+- Matches you create by swiping
+- Messages sent and received
+- App interaction data
+
+## Camera Permission
+
+### Why We Need Camera Access
+DoodleDates requests permission to access your device's camera **solely to enable you to take profile photos**. Camera access is completely optional.
+
+### How Camera Access Works
+- **Permission Required:** You must explicitly grant camera permission before we can access your camera
+- **User Control:** You can deny or revoke camera permission at any time through your device settings
+- **Limited Use:** Camera is only activated when you choose "Take Photo" when updating your profile picture
+- **No Background Access:** We never access your camera in the background or without your explicit action
+- **Alternative Option:** You can always choose photos from your device's library instead of taking a new photo
+
+### What Happens to Photos
+- Profile photos you capture are uploaded to our secure servers
+- Photos are stored securely and used only to display your profile to potential matches
+- You can delete or change your profile photo at any time
+- We do not share your photos with third parties for advertising or marketing purposes
+- We do not use facial recognition or analyze photos beyond displaying them in your profile
+
+### If You Deny Camera Permission
+If you choose not to grant camera access, you can still:
+- Use all app features normally
+- Upload profile photos from your device's photo library
+- Change your profile photo using existing photos
+
+## Photo & Media Library Access
+
+DoodleDates may request permission to access your photo library to allow you to select existing photos as your profile picture. Photos selected from your library are:
+- Only accessed when you explicitly choose to add/change your profile photo
+- Uploaded to our servers and displayed on your profile
+- Never accessed without your direct action
+- Not shared with third parties for marketing purposes
+
+## Drawing Data
+
+### How We Handle Your Drawings
+- Drawings are created using our in-app canvas
+- Drawings are stored in our database and shared only with your matched users
+- We do not use drawings for advertising or sell them to third parties
+- Drawings remain private between you and your match
+
+## Text Message Moderation
+
+### Content Safety
+To maintain a safe community, all text messages are automatically reviewed using the OpenAI Moderation API to detect:
+- Hate speech
+- Harassment
+- Self-harm content
+- Sexual content
+- Violence
+
+Messages flagged as violating our community guidelines are blocked and not delivered. This automated moderation helps protect all users.
+
+## Data Storage & Security
+
+### How We Protect Your Data
+- Passwords are encrypted using industry-standard bcrypt hashing
+- All data is stored in secure PostgreSQL databases
+- Authentication uses JSON Web Tokens (JWT) with 7-day expiration
+- Data transmission is protected through secure connections
+
+### Data Retention
+- Account data is retained while your account is active
+- You can request account deletion at any time (see "Your Rights" below)
+- Upon account deletion, your personal data is removed from our active databases
+
+## Data Sharing & Third Parties
+
+### We Share Data With:
+- **OpenAI:** Text messages are sent to OpenAI's Moderation API to check for harmful content (no personal identifying information is included)
+- **Google AdMob:** We use AdMob to display advertisements. AdMob may collect device identifiers and usage data according to [Google's Privacy Policy](https://policies.google.com/privacy)
+
+### We Do NOT:
+- Sell your personal information to third parties
+- Share your photos with advertisers
+- Use your drawings for any purpose other than displaying them to your matches
+- Share your profile information with anyone except potential matches in the app
+
+## Advertising
+
+DoodleDates displays advertisements through Google AdMob. AdMob may collect:
+- Device advertising ID
+- Device type and model
+- App usage data
+- Ad interaction data
+
+You can opt out of personalized advertising through your device settings:
+- **Android:** Settings → Google → Ads → Opt out of Ads Personalization
+- **iOS:** Settings → Privacy → Tracking → Disable "Allow Apps to Request to Track"
+
+For more information, see [Google's AdMob Privacy Policy](https://support.google.com/admob/answer/6128543).
+
+## Your Rights
+
+### You Have the Right To:
+- **Access Your Data:** Request a copy of all personal data we hold about you
+- **Update Information:** Change your profile information at any time within the app
+- **Delete Your Account:** Request complete deletion of your account and associated data
+- **Withdraw Permissions:** Revoke camera or photo library access through device settings
+- **Opt Out of Ads:** Disable personalized advertising through device settings
+
+### How to Exercise Your Rights
+To request data access, corrections, or account deletion:
+- Contact us at: apptestbh@gmail.com
+- We will respond to your request within 30 days
+
+## Children's Privacy
+
+DoodleDates is not intended for users under 18 years of age. We do not knowingly collect personal information from anyone under 18. If you believe a child under 18 has provided us with personal information, please contact us immediately.
+
+## Changes to This Policy
+
+We may update this Privacy Policy periodically. Changes will be posted in the app and on this page with an updated "Last Updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Your Consent
+
+By using DoodleDates, you consent to:
+- Collection and use of information as described in this policy
+- Processing of text messages through automated content moderation
+- Display of advertisements through Google AdMob
+- Use of camera (only when you explicitly grant permission)
+
+## Data Protection Rights (GDPR/CCPA)
+
+If you are located in the European Union, UK, or California, you have additional rights:
+- Right to be forgotten (account deletion)
+- Right to data portability
+- Right to object to processing
+- Right to restrict processing
+- Right to lodge a complaint with a supervisory authority
+
+Contact us to exercise these rights: apptestbh@gmail.com
+
+## Legal Basis for Processing (GDPR)
+
+We process your personal data based on:
+- **Contract:** To provide the DoodleDates service you signed up for
+- **Legitimate Interest:** To improve our service and maintain security
+- **Consent:** For optional features like camera access and personalized ads
+
+## Questions or Concerns
+
+If you have questions about this Privacy Policy or our data practices:
+- Email: apptestbh@gmail.com
+- We aim to respond within 7 business days
+
+---
+
+**By using DoodleDates, you acknowledge that you have read and understood this Privacy Policy.**
